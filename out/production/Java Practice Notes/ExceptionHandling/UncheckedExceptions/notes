@@ -1,0 +1,2 @@
+Unchecked Exceptions:
+1. These are the exceptions which occur during runtime and compiler not forcing us to handle them.

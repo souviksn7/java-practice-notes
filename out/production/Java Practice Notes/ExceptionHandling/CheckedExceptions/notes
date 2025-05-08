@@ -1,0 +1,2 @@
+Checked Exceptions:
+1. Compiler verifies them during compile time of the code and if not handled properly, code compilation will fail.
