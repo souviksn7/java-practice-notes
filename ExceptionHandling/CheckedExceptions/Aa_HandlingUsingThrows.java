@@ -1,7 +1,7 @@
 package ExceptionHandling.CheckedExceptions;
 
 public class Aa_HandlingUsingThrows {
-    // Here it's not handled by the way. main method throws it to it's parent tyo handle.
+    // Here it's not handled by the way. main method throws it to it's parent to handle.
     public static void main(String[] args) throws ClassNotFoundException{
         method();
     }
